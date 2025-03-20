@@ -2,7 +2,7 @@
 Presentaciones para el Tópico de Electrónica Digital y Microcontrolares para Ingenieros Físicos de la Universidad de Santiago de Chile.
 
 - Universidad de Santiago de Chile
-- Año: 2024
+- Año: 2025
 
 # Bibliografía
 - Mano, M. Morris. Diseño Digital. 3era edición. Pearson Educación, 2003.
